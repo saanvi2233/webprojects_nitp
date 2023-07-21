@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(237, 96, 178);
+}
+.templateContainer{
+    margin: 5% 0;
+    border-radius: 10px;
+}
+.templateContainer > .searchInput_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+.templateContainer > .searchInput_Container input{
+    width: 50%;
+    padding: 10px;
+    outline: none;
+    font-size: 24px;
+    border-radius: 15px;
+    background-color: rgb(53, 56, 56);
+    color: rgb(120, 181, 234);
+}
+.templateContainer .template_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.templateContainer .template_Container .template{
+    background-color: rgb(120,181,234);
+    margin: 30px;
+    padding: 0px 20px;
+    padding-left: 30PX;
+}
+.templateContainer .template_Container .template img{
+    height: 250px;
+}

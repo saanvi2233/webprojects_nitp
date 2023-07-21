@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Invicto/9483/1688547077223/front-left-side-47.jpg",
+        "title": "Maruti invocto",
+        "price": 34130
+    },
+    {
+        "id": 2,
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Thar/8076/1601635839903/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+        "title": "Mahindra thar",
+        "price": 19504
+    },
+    {
+        "id": 3,
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Exter/9482/1684926596004/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+        "title": "Hyundai Exter",
+        "price": 12180
+    }
+]
